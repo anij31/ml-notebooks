@@ -1,2 +1,6 @@
-# breast-cancer-xgboost
-An exploration of the Wisconsin Breast Cancer Dataset using XGBoost
+# Collection of ML Notebooks 
+
+- Wisconsin Breast Cancer Dataset using XGBoost
+- Random Forest Regressor for sunspot time-series prediction
+
+
